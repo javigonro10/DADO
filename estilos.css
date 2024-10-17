@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(245, 176, 151);
+    font-family: Papyrus;
+    text-align: center;
+}
+img{
+    border: 4px ridge whitesmoke;
+    margin: 5px;
+}
+p{
+    color: whitesmoke;
+    font-size: 20px;
+    font-weight: bolder;
+}
+h1{
+    color: whitesmoke;
+    margin-top: 60px;
+}
+h2{
+    text-decoration: underline overline dotted 6px coral;
+}
