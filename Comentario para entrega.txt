@@ -1,3 +1,0 @@
-Hemos trabajado en conjunto Javi Gonzalez y Ester Rivero.
-Hemos decidido realizar el reparto de las tareas modularizando el código a través de funciones para poder trabajar en conjunto. Sabemos que en este código tan corto no es lo más óptimo, pero debido a que necesitabamos trabajar los dos por separado y poner conmún después, hemos creído conveniente que era la mejor opción.
-Enlace github: https://github.com/javigonro10/DADO.git
